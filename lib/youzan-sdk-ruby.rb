@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 require "youzan/sdk/version"
 require "youzan/sdk/api_operations/customer.rb"
 require "youzan/sdk/base"
