@@ -1,6 +1,4 @@
-# youzan-sdk-ruby
-本项目fork自 [hging/youzan-sdk-ruby](https://github.com/hging/youzan-sdk-ruby)，并作出适当修改。
----
+# youzan-sdk-ruby fork自 [hging/youzan-sdk-ruby](https://github.com/hging/youzan-sdk-ruby)，并作出适当修改。
 调用有赞API接口
 
 ## 使用方法
