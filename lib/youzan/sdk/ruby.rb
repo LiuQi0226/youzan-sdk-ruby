@@ -1,9 +1,9 @@
-require "youzan/sdk/ruby/version"
-require "youzan/sdk/ruby/api_operations/customer.rb"
-require "youzan/sdk/ruby/base"
-require "youzan/sdk/ruby/item"
-require "youzan/sdk/ruby/users"
-require "youzan/sdk/ruby/ump"
+require "youzan/sdk/version"
+require "youzan/sdk/api_operations/customer.rb"
+require "youzan/sdk/base"
+require "youzan/sdk/item"
+require "youzan/sdk/users"
+require "youzan/sdk/ump"
 
 require 'typhoeus'
 require 'json'

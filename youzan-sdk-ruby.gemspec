@@ -1,10 +1,10 @@
 lib = File.expand_path("lib", __dir__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require "youzan/sdk/ruby/version"
+require "youzan/sdk/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "youzan-sdk-ruby"
-  spec.version       = Youzan::Sdk::Ruby::VERSION
+  spec.version       = Youzan::Sdk::VERSION
   spec.authors       = ["Hging"]
   spec.email         = ["hging3@gmail.com"]
 
